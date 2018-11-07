@@ -20,7 +20,7 @@ function disp(){
 var result="";
 var sum = 0.0;
 for (var i = 0; i < itemNames.length; i++) {     
-     result += (itemNames[i] + " : $" + itemPrices[i]);
+     result += (itemNames[i] + " : $" + itemPrices[i]) ;
      
 
 }
