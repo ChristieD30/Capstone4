@@ -33,7 +33,7 @@ for(var i=0; i < itemPrices.length; i++){
 
 tax = sum * 1.06;
 
-alert("Your items: " + result + " Total: $" + sum.toFixed(2) + "With tax: $"+ tax.toFixed(2));
+alert("Your items: " + result + " Total: $" + sum.toFixed(2) + " With tax: $"+ tax.toFixed(2));
 
 }
 
